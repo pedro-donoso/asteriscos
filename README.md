@@ -1,19 +1,15 @@
-# Ruby on Replit
+![asteriscos](https://github.com/pedro-donoso/asteriscos/assets/68760595/927c2bab-8aea-4216-9169-cbe37405e807)
 
-This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
+# https://replit.com/@odikil/asteriscos-y-puntos
 
-## Running the repl
+- Muestra asteriscos * y puntos . intercalados el número de veces elegido
 
-Simply hit run! You can edit the run command from the `.replit` file.
+- Activa ```SHELL```
+ # ![shell](https://github.com/pedro-donoso/asteriscos/assets/68760595/b3243b90-bc83-4153-b4a6-1b780e2851e1)
 
-## Installing packages
+- Ingresa el código con el número total elegido
+  ```ruby main.rb 555  ```
 
-To add packages to your repl, we recommend using the Replit packager interface in the left sidebar or using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/guides/getting_started.html).
+ 
 
-**Warning: Avoid using `gem install` to add packages.**
 
-Beacuse Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a consistent environment that tracks and installs the exact gems and versions needed, we recommend using `bundle install` instead of `gem install`, which may not work as expected.
-
-## Help
-
-If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
